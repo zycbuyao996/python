@@ -1,3 +1,4 @@
+#从山东省教育招生考试院下载专业分数线表，将专业分数线表读取到数据库中
 # coding=utf-8
 import mysql.connector
 import xlrd
