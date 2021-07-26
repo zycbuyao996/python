@@ -1,3 +1,4 @@
+#利用excel将专业分数线表筛选成高校分数线表，然后将表读取到数据库中
 # coding=utf-8
 import mysql.connector
 import xlrd
